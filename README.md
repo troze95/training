@@ -1,2 +1,3 @@
-# training
-Test Git
+# Training
+
+Ceci est un test
